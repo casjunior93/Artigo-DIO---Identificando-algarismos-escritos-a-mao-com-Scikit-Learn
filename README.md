@@ -1,0 +1,1 @@
+# Artigo-DIO---Identificando-algarismos-escritos-a-mao-com-Scikit-Learn
